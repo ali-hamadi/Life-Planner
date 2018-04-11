@@ -1,4 +1,4 @@
-*The file name 'User Study Plan.pdf' contains the documentation, user study plan, and data analysis of this project.*
+*The file 'User Study Plan.pdf' contains the documentation, user study plan, and data analysis of this project.*
 
 *As of late 2015, Google officially ended support for the Android Developer Tools (ADT) plug-in in Eclipse. As a result, I recently migrated my project from Eclipse to Android Studio and made some necessary code changes to keep my project intact after the transition.*
 
